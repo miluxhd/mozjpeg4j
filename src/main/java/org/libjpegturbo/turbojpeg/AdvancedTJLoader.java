@@ -76,7 +76,7 @@ class AdvancedTJLoader {
         return new HashMap<String, String>() {{
             put("/native_mozjpeg/version_3_1/linux_simd_disabled_x86/libturbojpeg.so", "8c7207433b0440bd09617c316b4a0c5d");
             put("/native_mozjpeg/version_3_1/linux_simd_disabled_x86_64/libturbojpeg.so", "e235c8d1cc9bdeeda3d6aed73af8c21f");
-            put("/native_mozjpeg/version_3_1/linux_simd_enabled_x86_64/libturbojpeg.so", "bd9d9366848e7e4a5431a95eb54c6302");
+            put("/native_mozjpeg/version_3_1/linux_simd_enabled_x86_64/libturbojpeg.so", "c04ba836236432f3d7256f2403121901");
             put("/native_mozjpeg/version_3_1/mac_simd_enabled_x86_64/libturbojpeg.dylib", "96c972b96aa87034bf073423dd5b4341");
             put("/native_mozjpeg/version_3_1/mac_simd_disabled_x86_64/libturbojpeg.dylib", "83fe0a59e99c2fe9dba1695fd09a0cda");
             put("/native_mozjpeg/version_3_1/windows_simd_disabled_x86/libturbojpeg.dll", "b7110b82fbb93d5825e06d0e1ea95bd5");
