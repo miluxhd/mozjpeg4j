@@ -40,6 +40,16 @@ package org.libjpegturbo.turbojpeg;
 public final class TJ {
 
     /**
+     * The error was fatal and non-recoverable.
+     */
+    public static final int ERR_FATAL = 1;
+
+    /**
+     * The number of error codes
+     */
+    public static final int NUMERR = 2;
+
+    /**
      * The number of chrominance subsampling options
      */
     public static final int NUMSAMP = 6;
